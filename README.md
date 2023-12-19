@@ -5,5 +5,5 @@ Section: 336B
 About:  
   - Merge sort  
   - Quicksort  
-   - Lomuto quicksort  
-   - Hoare quicksort  
+     - Lomuto quicksort  
+     - Hoare quicksort  
